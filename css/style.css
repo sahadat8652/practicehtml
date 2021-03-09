@@ -1,0 +1,37 @@
+nav{
+	background-color: limegreen;
+	border: 1px solid red;
+	width: 100%;
+	text-align: right;
+	border-radius: 3px;
+}
+nav a{
+	font-size: 30px;
+	text-decoration: none;
+	margin: 10px;
+	padding: 40px;
+}
+.main{
+	border: 1px solid green;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+}
+figure img{
+	width: 100%;
+}
+figcaption{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.head1{
+	background-color: yellow;
+}
+.head2{
+	border: 5px dotted green;
+}
+#text{
+	color: red;
+	font-size: 30px;
+}
